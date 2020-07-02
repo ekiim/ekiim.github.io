@@ -1,8 +1,11 @@
-# ekiim's Github Page.
+# Mi sitio personal
 
-My Github Page (btw, it's empty).
+Esta es la ruta de mi sitio personal, por lo pronto no tengo que añadir, pueden buscarme en stackoverflow o en github como `ekiim`.
 
-Please, expect nothing from this repo.
+Y aqui agrego un link a mi primer curso de la universidad abierta y a distancia de mexico.
 
-- If you are looking to contact me, please email me directly.
-- If you are looking to checkout my work, go to [`ekiim.xyz`](https://ekiim.xyz), or browse my repos.
+### Ligas a mi trabajo
+
+ - [CIVULMASZ2020](http://civulmasz2020.ekiim.xyz/)
+ - [`vim-mathpix`](http://github.com/ekiim/vim-mathpix)
+
